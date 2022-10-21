@@ -56,6 +56,7 @@ export const FeedbackProvider = ({ children }) => {
         setFeedbackEdit({
             item,
             edit: true
+            
         })
     }
 
